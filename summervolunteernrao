@@ -1,3 +1,0 @@
-mkdir sumstudent
-cd student
-git clone https://github.com/brkent/SummerStudent2025.git
